@@ -1,8 +1,12 @@
 <div align="center">
-一天一 hotfix，增強抵抗力！<br/>
+<h2>一天一 Hotfix，增強抵抗力
+  <br/>
+  A Hotfix a day, keeps the doctor away</h2>
+  <br/>
   <br/>
 我是 Shin，現職前端工程師。<br/>
-這邊的專案蠻多部分是提供給我的筆記範例用，歡迎參考：<br/>
+  <br/>
+我的 GitHub 蠻多專案是提供給我的筆記用，歡迎參考：<br/>
   <br/>
 <a href="https://penspulse326.github.io/" target="_blank">
   <strong>Pen's Pulse</strong>
