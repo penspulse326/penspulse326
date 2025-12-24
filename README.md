@@ -4,10 +4,9 @@
   A Hotfix a day, keeps the doctor away</h2>
   <br/>
   <br/>
-我是 Shin，現職前端工程師。<br/>
+我是 Shin，現職前端工程師，至今仍在工作崗位上努力不被 AI 淘汰 XD<br/>
   <br/>
-我的 GitHub 蠻多專案是提供給我的筆記用，歡迎參考：<br/>
-  <br/>
+這裡蠻多專案是提供給我的筆記或專欄用，歡迎參考：
 <a href="https://penspulse326.github.io/" target="_blank">
   <strong>Pen's Pulse</strong>
 </a>
